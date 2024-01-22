@@ -1,14 +1,35 @@
 ---
 key: civic_lab_brussels
 title: Civic Lab Brussels
-lat: 50.845369
-long: 4.357297
+lat: 50.85535
+long: 4.32164
 
+# translations for titles
+meetings_title: Meetings
+contacts_title: Contacts
+
+# If you need to include a link in this texts, don't forget to add  "target='_blank' rel='noreferrer'". Otherwise link will be removed.
 meetings:
-- text: bi-weekly
+- text: bi-weekly, 1st & 3rd tuesday evening 19h-22h.
 
+# multiple contacts possible
+# - name: name of contact
+#   url: email address or url of contact form
 contacts:
-- name: Dries van R.
-  url: http://influencair.be/
+- name: Rik Drabs
+  url: mailto:influencair2017@gmail.com
 
-website: http://influencair.be/
+# leave empty if non-existent
+# Twitter and Telegram: account name without @ sign
+website: https://www.meetup.com/nl-NL/civic-lab-brussels/
+facebook:
+facebook_group:
+facebook_page:
+github:
+gitlab:
+instagram:
+mastodon:
+meetup:
+telegram:
+telegram_group:
+twitter:
