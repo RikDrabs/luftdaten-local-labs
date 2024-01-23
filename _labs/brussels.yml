@@ -22,7 +22,7 @@ contacts:
 # leave empty if non-existent
 # Twitter and Telegram: account name without @ sign
 website: https://www.meetup.com/nl-NL/civic-lab-brussels/
-facebook:
+facebook: https://www.facebook.com/search/top?q=civic%20lab%20brussels            
 facebook_group:
 facebook_page:
 github:
